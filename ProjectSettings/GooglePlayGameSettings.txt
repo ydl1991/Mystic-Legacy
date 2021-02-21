@@ -1,0 +1,9 @@
+lastUpgrade=01012
+proj.pluginVersion=0.10.12
+proj.AppId=34732981229
+and.BundleId=games.beinny.TestRun
+proj.classDir=Assets
+proj.ConstantsClassName=GooglePlayIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e34732981229%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3egames.beinny.TestRun%3c%2fstring%3e%0d%0a++%3c%21--achievement+Getting+Started--%3e%0d%0a++%3cstring+name%3d%22achievement_getting_started%22+translatable%3d%22false%22%3eCgkI7ff8sYEBEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Rookie--%3e%0d%0a++%3cstring+name%3d%22achievement_rookie%22+translatable%3d%22false%22%3eCgkI7ff8sYEBEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Upgrade+Master--%3e%0d%0a++%3cstring+name%3d%22achievement_upgrade_master%22+translatable%3d%22false%22%3eCgkI7ff8sYEBEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Heavy+Hitter--%3e%0d%0a++%3cstring+name%3d%22achievement_heavy_hitter%22+translatable%3d%22false%22%3eCgkI7ff8sYEBEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Skilled+Attacker--%3e%0d%0a++%3cstring+name%3d%22achievement_skilled_attacker%22+translatable%3d%22false%22%3eCgkI7ff8sYEBEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Honorable+Defender--%3e%0d%0a++%3cstring+name%3d%22achievement_honorable_defender%22+translatable%3d%22false%22%3eCgkI7ff8sYEBEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
